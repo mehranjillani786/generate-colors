@@ -1,0 +1,17 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehran",
+  "license": "ISC",
+  "dependencies": {
+    "color-name": "^2.0.0",
+    "color-name-list": "^10.16.0",
+    "esm": "^3.2.25",
+    "xlsx": "^0.18.5"
+  }
+}
